@@ -1,44 +1,50 @@
 {
-  "clientes": [
+  "clients": [
     {
-      "nombre": "diana cristina",
-      "empresa": "JA asociados ",
-      "email": "leonelpolanco2913@gmail.com",
-      "telefono": "3122215315",
-      "notas": "Construcciones ",
-      "id": 1
+      "company": "Empresa ABC",
+      "email": "ana@company1.com",
+      "phone": "102013313",
+      "notes": "Cliente destacado",
+      "id": 1,
+      "name": "Ana Smith"
     },
     {
-      "nombre": "diana cristina",
-      "empresa": "JA asociados ",
-      "email": "leonelpolanco2913@gmail.com",
-      "telefono": "3122215315",
-      "notas": "Construcciones ",
-      "id": 2
+      "company": "Compañía XYZ",
+      "email": "luis@company2.com",
+      "phone": "138198313",
+      "notes": "Cliente leal",
+      "id": 2,
+      "name": "Luis Pérez"
     },
     {
-      "nombre": "Leonel",
-      "empresa": "LeoINC",
-      "email": "leoenl@leo.com",
-      "telefono": "3122222222",
-      "notas": "sitfware",
-      "id": 3
+      "company": "Empresa 123",
+      "email": "juan@company3.com",
+      "phone": "5555555",
+      "notes": "Cliente nuevo",
+      "id": 3,
+      "name": "Juan Rodríguez"
     },
     {
-      "nombre": "Camilo",
-      "empresa": "CAMKING",
-      "email": "correo@correo.com",
-      "telefono": "3254111",
-      "notas": "Nada de nada",
-      "id": 4
+      "id": 4,
+      "name": "Roberto González",
+      "phone": 319381983,
+      "email": "roberto@company4.com",
+      "company": "Empresa Delta"
     },
     {
-      "nombre": "diana cristina",
-      "empresa": "LeoINCccc",
-      "email": "correo@correo.com",
-      "telefono": "3010101",
-      "notas": "",
-      "id": 5
+      "id": 5,
+      "name": "Sofía García",
+      "phone": 1398198938,
+      "email": "sofia@company5.com",
+      "company": "Empresa Epsilon"
+    },
+    {
+      "company": "Empresa Zeta",
+      "email": "carla@company6.com",
+      "phone": "5151515",
+      "notes": "Cliente regular",
+      "id": 6,
+      "name": "Carla López"
     }
   ]
 }
